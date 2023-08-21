@@ -1,0 +1,1 @@
+pi = 3.14 # this is a way to make different snippets for the main code
